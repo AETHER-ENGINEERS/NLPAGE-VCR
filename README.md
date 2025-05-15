@@ -3,7 +3,7 @@ NLPAGE or Natural Language Processing Advanced Game Engine.
 
 System Requirements: 
 - Some sort of device through which you can access the internet.
-- On that device: An interface of any sort for a NLP capable text generator such as ChatGPT, BingChat (when it's no longer lobotimized by Microsoft, anyway), BLOOM, BERT, the upcoming ERNIE, or pretty much any other well done NLP interface.  That's it. that's all you need.
+- On that device: An interface of any sort for a NLP capable text generator such as ChatGPT, BingChat (when it's no longer lobotimized by Microsoft, anyway), BLOOM, BERT, the upcoming ERNIE, or pretty much any other well done NLP interface.  That's it. that's all you need.  Websim AI is especially effective at generating this engine.
 
 Dependencies: The ability to read and understand the System Requirements, the How to Install, and the prompt itself while also being able and willing to uphold the conditions of the conditional GPL 3.0 as described in the LICENSE file and in the prompt itself. This is not a limitation by design, it's a limitation enforced by most NLP Interface's Original Source Models, and therefore we had no choice but to leave it in to ensure the NLP(AGE) software will willingly cooperate in performing as itself.
 
